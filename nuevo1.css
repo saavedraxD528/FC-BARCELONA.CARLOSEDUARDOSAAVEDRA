@@ -1,0 +1,38 @@
+*
+{
+	background-color:#66FFF8;
+	color: #071B81;
+	
+}	
+h1
+{
+	background-color: #BF0404;
+	text-align:center;
+	text-decoration:underline;
+}
+p
+{
+	color:black; 
+	font-family:arial;
+	font-size:15px;
+	
+	
+}
+img
+{
+ width:600px;
+ height:350px;
+}
+ul
+{
+	color:white;
+}
+
+@media screen and (min-width:500px)
+{
+	img
+	{
+	   width:100%;
+	   height:100%;
+	}
+}
